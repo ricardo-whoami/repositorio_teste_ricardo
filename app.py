@@ -1,0 +1,1 @@
+print('Olá, estamos iniciando nosso primeiro projeto!')
